@@ -1,0 +1,194 @@
+.app_logo_header{
+  text-align: right;
+  }
+
+.app_logo {
+  position: absolute;
+  margin-left: 2vh;
+  margin-top: 2vh;
+    height: 12vh;
+    width: 12vh;
+    border-radius: 50%;
+    object-fit: contain;
+    opacity: .9;
+  }
+  .app_logo_sso {
+    margin-left: 1vh;
+  margin-top: 2vh;
+    position: absolute;
+    height: 12vh;
+    width: 12vh;
+    border-radius: 50%;
+    object-fit: contain;
+    display: none;
+    opacity: .9;
+  }
+  .app_header{
+  text-align: right;
+  margin-left: 15vh;
+  max-width: 54vh;
+  }
+  
+  .app_top1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 5vh;
+    width: 53vh;
+    height: 4vh;
+    font-size: 2.8vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+  }
+  .app_top2 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 10vh;
+    width: 53vh;
+    height: 20vh;
+    font-size: 3.4vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+  }
+  
+  .app.sub {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 22vh; 
+    width: 51vh;
+    height: 9vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  .app_profile {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 43.4vh;
+    margin-top: 31vh;
+    width: 23vh;
+    height: 32vh;
+    border-radius: 8%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 227, 104, 0.5);
+  }
+  .app_pic1 {
+    position: absolute;
+    pointer-events: none;
+    object-fit: cover;
+    opacity: 0.9;
+  }
+  .app_pic2 {
+    position: absolute;
+    pointer-events: none;
+    object-fit: cover;
+    opacity: 0.8;
+  }
+  .app_pic3 {
+    position: absolute;
+    pointer-events: none;
+    object-fit: cover;
+    opacity: 0.7;
+  }
+  .app_name {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 65vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 3.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  
+  .app_title {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 70vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  .app_dept {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 74vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.2vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 2px rgba(255, 255, 255, 0.5);;
+  }
+  
+  .app_school {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 82vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_sso1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 85vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_sso2 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 88vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  
+  .app_ss03 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 91vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }

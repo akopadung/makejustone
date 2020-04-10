@@ -1,0 +1,222 @@
+.app_logo1 {
+    position: absolute;
+    height: 14vh;
+    margin-left: 3vh;
+    margin-top: 3vh;
+    width: 12vh;
+    border-radius: 50%;
+    object-fit: contain;
+    box-shadow: 0px 5px rgba(255, 255, 255, 0.2);
+    opacity: .9;
+  }
+  .app_logo12 {
+    position: absolute;
+    height: 14vh;
+    margin-left: 13vh;
+    margin-top: 3vh;
+    width: 12vh;
+    border-radius: 50%;
+    object-fit: contain;
+    box-shadow: 0px 5px rgba(255, 255, 255, 0.2);
+    opacity: .9;
+    display: none;
+  }
+  .app_header1 {
+  text-align: right;
+  margin-left: 15vh;
+  max-width: 54vh;
+  }
+  
+  .app_top_bg1 {
+    display: none;
+  }
+
+  .app_top11 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 3vh;
+    width: 54vh;
+    height: 4vh;
+    font-size: 2.8vh;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    text-shadow: 1px 1px rgba(255, 177, 31, 0.5);
+  }
+  .app_top12 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 10vh;
+    width: 54vh;
+    height: 20vh;
+    font-size: 3.4vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    align-items: center;
+    text-shadow: 1px 1px rgba(255, 177, 31, 0.5);
+  }
+  
+  .app_sub1 {
+    position: absolute;
+    pointer-events: none;
+    margin-top: 20vh; 
+    width: 51vh;
+    height: 9vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: right;
+  }
+
+  .app_profile1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 43.4vh;
+    margin-top: 31vh;
+    width: 23vh;
+    height: 32vh;
+    border-radius: 8%;
+    object-fit: cover;
+    border: 0.5vh solid;
+    border-color: rgba(255, 227, 104, 0.5);
+  }
+  
+  .app_story11 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 23.5vh;
+    margin-top: 30.5vh;
+    width: 19vh;
+    height: 17vh;
+    border-radius: 5%;
+    object-fit: cover;
+    opacity: 0.9;
+  }
+  .app_story12 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 23.5vh;
+    margin-top: 48vh;
+    width: 19vh;
+    height: 14vh;
+    border-radius: 5%;
+    object-fit: cover;
+    opacity: 0.8;
+  }
+  
+  .app_story13 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 3vh;
+    margin-top: 30.5vh;
+    width: 20vh;
+    height: 22vh;
+    border-radius: 5%;
+    object-fit: cover;
+    opacity: 0.9;
+    -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+      mask-image: linear-gradient(to left, rgb(0, 0, 0), rgba(0, 0, 0, 0));
+  }
+
+  .app_middle_bg1 {
+    display: none;
+  }
+  
+  .app_name1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 65vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 3.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 1px rgba(207, 182, 80, 0.5);
+  }
+  
+  .app_title1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 70vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 1px rgba(168, 160, 129, 0.5);
+  }
+  .app_dept1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 74vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.2vh;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-align: center;
+    color: rgb(82, 68, 8);
+    text-shadow: 1px 1px rgba(168, 160, 129, 0.5);
+  }
+
+  .app_bottom_bg1 {
+    display: none;
+  }
+  
+  .app_school1 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 82vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.4vh;
+    font-weight: 700;
+    
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_sso11 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 85vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.3vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  .app_sso12 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 88vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.3vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }
+  
+  .app_sso13 {
+    position: absolute;
+    pointer-events: none;
+    margin-left: 5vh;
+    margin-top: 91vh;
+    width: 60vh;
+    max-height: 20vh;
+    font-size: 2.3vh;
+    font-weight: 700;
+    color: rgb(82, 68, 8);
+    text-align: center;
+  }

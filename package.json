@@ -1,16 +1,26 @@
 {
+  "homepage": "https://akopadung.github.io/makecover",
   "name": "make-cover-1-0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.9.9",
+    "@material-ui/icons": "^4.9.1",
+    "@react-pdf/renderer": "^1.6.8",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-dropdown": "^1.7.0",
+    "react-loader": "^2.4.7",
+    "react-scripts": "3.4.1",
+    "react-select": "^3.1.0",
+    "tabletop": "^1.6.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

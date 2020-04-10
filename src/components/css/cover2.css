@@ -1,0 +1,254 @@
+.app_logo2 {
+  position: absolute;
+  height: 14vh;
+  margin-left: 2vh;
+  margin-top: 3vh;
+  width: 13vh;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: rgba(255, 173, 215, 0.3);
+  border: 1vh solid;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.app_logo22 {
+  position: absolute;
+  height: 14vh;
+  margin-left: 12vh;
+  margin-top: 3vh;
+  width: 13vh;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: rgba(255, 173, 215, 0.3);
+  border: 1vh solid;
+  border-color: rgba(255, 255, 255, 0.1);
+
+  display: none;
+}
+
+.app_header2 {
+  position: absolute;
+  margin-left: 15vh;
+  max-width: 54vh;
+}
+
+.app_top_bg2 {
+  position: absolute;
+  text-align: right;
+  margin-top: 1vh;
+  margin-left: 14vh;
+  width: 56.5vh;
+  height: 19.5vh;
+  opacity: 0.6;
+}
+.app_top21 {
+  position: absolute;
+  pointer-events: none;
+  margin-top: 2.5vh;
+  width: 54vh;
+  height: 3vh;
+  font-size: 2.8vh;
+  font-weight: 700;
+  color: rgb(80, 19, 44);
+  text-shadow: 1px 1px rgba(255, 255, 255, 0.3);
+  text-align: right;
+}
+.app_top22 {
+  position: absolute;
+  pointer-events: none;
+  margin-top: 9vh;
+  width: 54vh;
+  height: 20vh;
+  font-size: 3.0vh;
+  font-weight: 700;
+  color: rgb(124, 19, 63);
+  text-shadow: 1px 1px rgba(218, 218, 218, 0.8);
+  text-align: right;
+}
+.app_sub2 {
+  position: absolute;
+  pointer-events: none;
+  margin-top: 15vh;
+  width: 53vh;
+  height: 9vh;
+  font-size: 2.5vh;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px rgba(78, 78, 78, 0.6);
+  text-align: right;
+}
+
+.app_profile2 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 16vh;
+  margin-top: 11vh;
+  width: 52vh;
+  height: 52vh;
+  object-fit: cover;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+.app_story21 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 10.2vh;
+  margin-top: 47.7vh;
+  width: 31.5vh;
+  height: 31.5vh;
+  object-fit: cover;
+  opacity: 0.8;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+.app_story22 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: -5.5vh;
+  margin-top: 64vh;
+  width: 30.5vh;
+  height: 30.5vh;
+  object-fit: cover;
+  opacity: 0.7;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 18% 65%, 18% 32%);
+}
+
+.app_story23 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: -0.5vh;
+  margin-top: -0.5vh;
+  width: 42vh;
+  height: 37vh;
+  object-fit: cover;
+  opacity: 0.6;
+  clip-path: polygon(74% 0, 100% 29.5%, 38% 100%, 0 56.5%, 0 0);
+}
+
+.app_story24 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: -12.5vh;
+  margin-top: 22.2vh;
+  width: 50vh;
+  height: 50vh;
+  object-fit: cover;
+  opacity: 0.4;
+  clip-path: polygon(25% 0, 25% 100%, 75% 50%);
+}
+
+.app_middle_bg2 {
+  position: absolute;
+  text-align: right;
+  margin-top: 56vh;
+  margin-left: 0;
+  width: 70vh;
+  height: 18vh;
+  opacity: 0.4;
+}
+.app_name2 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 58vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 3.5vh;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: right;
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 1px rgba(37, 37, 37, 0.6);
+}
+
+.app_title2 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 64vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.5vh;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: right;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px rgba(37, 37, 37, 0.9);
+}
+.app_dept2 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 68vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.2vh;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: right;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px rgba(37, 37, 37, 0.9);
+}
+
+.app_bottom_bg2 {
+  position: absolute;
+  text-align: right;
+  margin-top: 80vh;
+  margin-left: 5vh;
+  width: 61vh;
+  height: 18vh;
+  opacity: 0.6;
+}
+
+.app_school2 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 82vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.4vh;
+  font-weight: 700;
+  color: rgb(124, 19, 63);
+  text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  text-align: center;
+}
+.app_sso21 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 86.5vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.4vh;
+  font-weight: 700;
+  color: rgb(124, 19, 63);
+  text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  text-align: center;
+}
+.app_sso22 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 90vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.4vh;
+  font-weight: 700;
+  color: rgb(124, 19, 63);
+  text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  text-align: center;
+}
+
+.app_sso23 {
+  position: absolute;
+  pointer-events: none;
+  margin-left: 5vh;
+  margin-top: 93vh;
+  width: 60vh;
+  max-height: 20vh;
+  font-size: 2.4vh;
+  font-weight: 700;
+  color: rgb(124, 19, 63);
+  text-shadow: 1px 1px rgba(46, 5, 22, 0.2);
+  text-align: center;
+}
