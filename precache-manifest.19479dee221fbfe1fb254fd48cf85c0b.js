@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40901c735415b8412b7414ec07d0ff0c",
+    "revision": "0e75ad65356b43566403594416f2cb21",
     "url": "/makejustone/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makejustone/static/css/2.ee241de9.chunk.css"
   },
   {
-    "revision": "c1175b0a37d6b9f2d452",
-    "url": "/makejustone/static/css/main.fd0282ce.chunk.css"
+    "revision": "5a697a7cc095f0cf7abb",
+    "url": "/makejustone/static/css/main.c3a8ea3d.chunk.css"
   },
   {
     "revision": "d668dad207667aebeefc",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/makejustone/static/js/2.574701d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1175b0a37d6b9f2d452",
-    "url": "/makejustone/static/js/main.6c574780.chunk.js"
+    "revision": "5a697a7cc095f0cf7abb",
+    "url": "/makejustone/static/js/main.e22efc63.chunk.js"
   },
   {
     "revision": "2b5fb7f68ed28f910f72",
