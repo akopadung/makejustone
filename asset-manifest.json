@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/makejustone/static/css/main.ca7b47de.chunk.css",
-    "main.js": "/makejustone/static/js/main.a480cccf.chunk.js",
-    "main.js.map": "/makejustone/static/js/main.a480cccf.chunk.js.map",
+    "main.js": "/makejustone/static/js/main.360e5150.chunk.js",
+    "main.js.map": "/makejustone/static/js/main.360e5150.chunk.js.map",
     "runtime-main.js": "/makejustone/static/js/runtime-main.8ea9b22c.js",
     "runtime-main.js.map": "/makejustone/static/js/runtime-main.8ea9b22c.js.map",
     "static/css/2.ee241de9.chunk.css": "/makejustone/static/css/2.ee241de9.chunk.css",
     "static/js/2.584a0ff8.chunk.js": "/makejustone/static/js/2.584a0ff8.chunk.js",
     "static/js/2.584a0ff8.chunk.js.map": "/makejustone/static/js/2.584a0ff8.chunk.js.map",
     "index.html": "/makejustone/index.html",
-    "precache-manifest.78cb8cee50de223c16e3abf1594205ca.js": "/makejustone/precache-manifest.78cb8cee50de223c16e3abf1594205ca.js",
+    "precache-manifest.8f4fd16eb1a5a3f2e593c9444939e206.js": "/makejustone/precache-manifest.8f4fd16eb1a5a3f2e593c9444939e206.js",
     "service-worker.js": "/makejustone/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makejustone/static/css/2.ee241de9.chunk.css.map",
     "static/css/main.ca7b47de.chunk.css.map": "/makejustone/static/css/main.ca7b47de.chunk.css.map",
@@ -70,6 +70,6 @@
     "static/css/2.ee241de9.chunk.css",
     "static/js/2.584a0ff8.chunk.js",
     "static/css/main.ca7b47de.chunk.css",
-    "static/js/main.a480cccf.chunk.js"
+    "static/js/main.360e5150.chunk.js"
   ]
 }
