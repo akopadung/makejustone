@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/makejustone/static/css/main.5bd43823.chunk.css",
-    "main.js": "/makejustone/static/js/main.539e55da.chunk.js",
-    "main.js.map": "/makejustone/static/js/main.539e55da.chunk.js.map",
+    "main.css": "/makejustone/static/css/main.ca7b47de.chunk.css",
+    "main.js": "/makejustone/static/js/main.a480cccf.chunk.js",
+    "main.js.map": "/makejustone/static/js/main.a480cccf.chunk.js.map",
     "runtime-main.js": "/makejustone/static/js/runtime-main.8ea9b22c.js",
     "runtime-main.js.map": "/makejustone/static/js/runtime-main.8ea9b22c.js.map",
     "static/css/2.ee241de9.chunk.css": "/makejustone/static/css/2.ee241de9.chunk.css",
-    "static/js/2.76855d7e.chunk.js": "/makejustone/static/js/2.76855d7e.chunk.js",
-    "static/js/2.76855d7e.chunk.js.map": "/makejustone/static/js/2.76855d7e.chunk.js.map",
+    "static/js/2.584a0ff8.chunk.js": "/makejustone/static/js/2.584a0ff8.chunk.js",
+    "static/js/2.584a0ff8.chunk.js.map": "/makejustone/static/js/2.584a0ff8.chunk.js.map",
     "index.html": "/makejustone/index.html",
-    "precache-manifest.816eb7e75c142e3f0066a37fc34ec159.js": "/makejustone/precache-manifest.816eb7e75c142e3f0066a37fc34ec159.js",
+    "precache-manifest.78cb8cee50de223c16e3abf1594205ca.js": "/makejustone/precache-manifest.78cb8cee50de223c16e3abf1594205ca.js",
     "service-worker.js": "/makejustone/service-worker.js",
     "static/css/2.ee241de9.chunk.css.map": "/makejustone/static/css/2.ee241de9.chunk.css.map",
-    "static/css/main.5bd43823.chunk.css.map": "/makejustone/static/css/main.5bd43823.chunk.css.map",
-    "static/js/2.76855d7e.chunk.js.LICENSE.txt": "/makejustone/static/js/2.76855d7e.chunk.js.LICENSE.txt",
+    "static/css/main.ca7b47de.chunk.css.map": "/makejustone/static/css/main.ca7b47de.chunk.css.map",
+    "static/js/2.584a0ff8.chunk.js.LICENSE.txt": "/makejustone/static/js/2.584a0ff8.chunk.js.LICENSE.txt",
     "static/media/ChakraPetch-Regular.ttf": "/makejustone/static/media/ChakraPetch-Regular.f69fdd68.ttf",
     "static/media/K2D-Regular.ttf": "/makejustone/static/media/K2D-Regular.9bec958d.ttf",
     "static/media/Kanit-Regular.ttf": "/makejustone/static/media/Kanit-Regular.a82c4c3b.ttf",
@@ -55,6 +55,11 @@
     "static/media/cover26_top.png": "/makejustone/static/media/cover26_top.882e8d8f.png",
     "static/media/forms.jpg": "/makejustone/static/media/forms.5eb9e499.jpg",
     "static/media/report1.jpg": "/makejustone/static/media/report1.e69e0207.jpg",
+    "static/media/report_blue.jpg": "/makejustone/static/media/report_blue.d436ec53.jpg",
+    "static/media/report_green.jpg": "/makejustone/static/media/report_green.cc6f2710.jpg",
+    "static/media/report_orange.jpg": "/makejustone/static/media/report_orange.fc3bfe05.jpg",
+    "static/media/report_purple.jpg": "/makejustone/static/media/report_purple.1047f887.jpg",
+    "static/media/report_red.jpg": "/makejustone/static/media/report_red.aec5b377.jpg",
     "static/media/school_logo.png": "/makejustone/static/media/school_logo.c94e43e3.png",
     "static/media/setup_1.png": "/makejustone/static/media/setup_1.162633ee.png",
     "static/media/sso_logo.png": "/makejustone/static/media/sso_logo.453e2eb9.png",
@@ -63,8 +68,8 @@
   "entrypoints": [
     "static/js/runtime-main.8ea9b22c.js",
     "static/css/2.ee241de9.chunk.css",
-    "static/js/2.76855d7e.chunk.js",
-    "static/css/main.5bd43823.chunk.css",
-    "static/js/main.539e55da.chunk.js"
+    "static/js/2.584a0ff8.chunk.js",
+    "static/css/main.ca7b47de.chunk.css",
+    "static/js/main.a480cccf.chunk.js"
   ]
 }
